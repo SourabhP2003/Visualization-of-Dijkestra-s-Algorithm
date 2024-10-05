@@ -1,0 +1,11 @@
+
+enter number of nodes: 
+enter number of edges: 
+enter the first node of edge: 
+enter the second node of edge: 
+enter the edge weights: 
+ {0: {1: 2}, 1: {0: 2}}
+[[0, 2], [2, 0]]
+enter the source node: 0
+1
+enter the destination node: 
